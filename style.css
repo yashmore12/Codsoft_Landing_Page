@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: url("Ai.png") no-repeat center center fixed;
+  background: url("images/Ai image.png") no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   line-height: 1.6;
@@ -129,15 +129,15 @@ nav ul li a:hover {
 
 
 .textgen-box {
-  background: url("text.jpg") no-repeat center center/cover;
+  background: url("images/text.jpg") no-repeat center center/cover;
 }
 
 .imagegen-box {
-  background: url("imageBg.jpg") no-repeat center center/cover;
+  background: url("images/imageBg.jpg") no-repeat center center/cover;
 }
 
 .voiceai-box {
-  background: url("voice.jpg") no-repeat center center/cover;
+  background: url("images/voice.jpg") no-repeat center center/cover;
 }
 
 
